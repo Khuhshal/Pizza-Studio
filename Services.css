@@ -1,0 +1,152 @@
+.header{
+  background-color: white;height: 80px;width: 100%;position: fixed;z-index: 1;
+}
+.logo{
+  width: 220px;height: 220px;margin-top: -5%;margin-left: -3.5%;float: left;
+}
+.title{
+  color: #e82b1a;font-size: 35px;float: left;margin:1.2% -3.5%;font-family: 'Permanent Marker', cursive;
+}
+.tbs ul{
+  position: absolute;
+  display: flex;
+  top: 35%;
+  right:2%;
+  transform: translate(0%, 0%);
+}
+.tbs ul li{
+  list-style: none;
+  margin: 0 20px;
+}
+.tbs ul li a {
+  color: black;
+  font-size: 20px;
+}
+.page-1{
+  background-image: url(https://themewagon.github.io/pizza/images/bg_3.jpg);
+  width: 100%;height: 700px;background-size: 100% 100%;margin-top: 2.5%;
+}
+.mnu{
+  text-align: center;font-size: 60px;color: white;font-family: 'Permanent Marker', cursive;margin-top: 18%;
+}
+.page-2{
+  width: 100%;height: 650px;background-size: 100% 100%;
+  background-image: url(https://cdn.dribbble.com/users/664468/screenshots/2969597/food.jpg);
+}
+.ser{
+  text-align: center;font-size: 40px;color: black;font-family: 'Permanent Marker', cursive;margin-top: 6%;
+}
+.ser-p{
+  text-align: center;font-size: 18px;line-height: 28px;position: relative;margin-top: 2%;
+}
+.i-md{
+  margin-top: 3%;
+}
+.icn ul {
+  display: flex;
+  position: absolute;
+  transform: translate(68%);
+}
+.icn ul li {
+  list-style: none;
+  margin: 0 0px;
+}
+.icn ul li .fa-solid{
+  font-size: 55px;
+  line-height: 95px;
+  color: #e3aa40;
+}
+.icn ul li a {
+  position: relative;
+  display: block;
+  width: 100px;
+  height: 100px;
+  background-color: transparent;
+  text-align: center;
+  border: 3px solid #ed9f18;
+}
+.nm-hed{
+  text-align: center;margin-top: 30%;color: black;font-family: 'Permanent Marker', cursive;
+}
+.nm-p{
+  text-align: center;font-size: 15px;margin-top: 5%;font-family: 'Satisfy', cursive;color: black;
+}
+.bac-info{
+  width: 100%;height: 520px;background-color: #212224;
+}
+.b-m{
+  margin-top: 8%;
+}
+.ab-us{
+  color: white;font-size: 16px;
+}
+.ab-pr{
+  color: white;font-size: 17px;margin-top: 3%;line-height: 28px;
+}
+.butns ul {
+  position: absolute;
+  padding: 0;
+  margin-top: 3%;
+  transform: translate(-5%, 3%);
+  display: flex;
+}
+.butns ul li {
+  list-style: none;
+  margin: 0 7px;
+}
+.butns ul li .fa-brands {
+  font-size: 24px;
+  line-height: 48px;
+  color: #fff;
+}
+.butns ul li a {
+  position: relative;
+  display: block;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background-color:#3b3a38;
+  text-align: center;
+}
+.ab-1{
+  width: 80px;height: 80px;margin-top: 3%;float: left;
+}
+.hed-1{
+  float: left;font-size: 16px;color: white;margin-left: 6%;margin-top: 2.5%;line-height: 24px;
+}
+.calendar{
+  transform: translate(5.8%,3%);
+}
+.calendar ul li{
+  list-style: none;
+}
+.calendar ul li span a {
+  text-decoration: none;
+  font-size: 10px;color: white;
+  margin: 3;
+  letter-spacing: 2px;
+}
+.ab-bt{
+font-size: 18px;margin-top: 10%;color: white;background-color: transparent;border: none;
+}
+.ic{
+  transform: translate(-15%,3%);
+}
+.ic ul li{
+  list-style: none;
+  margin-top: 3%;
+}
+.ic ul li .fa-solid{
+  text-decoration: none;
+  font-size: 16px;
+  color: white;
+  float: left;
+}
+.ic ul p{
+   float: left;
+  color: white;
+  font-size: 15px;
+  margin-top: -1.8%;
+  margin-left: 6%;
+  line-height: 25px;
+}
